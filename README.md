@@ -2,7 +2,7 @@
 
 🎁my config-Neovim
 
-## DirectoryTree
+### DirectoryTree
     nvim
         │   init.lua
         │
@@ -28,5 +28,7 @@
                         tokyonight.lua
                         tree.lua
                         treesitter.lua
-### Lsp
+### Lsp + Formatting
 [build](https://github.com/MaskRay/ccls/wiki/Build "🤣") c/c++ language server
+
+[formatting clangd](https://github.com/clangd/vscode-clangd/issues/313 "😅") run the command ```clang-format -style=Microsoft -dump-config > .clang-format```
