@@ -35,7 +35,6 @@ opt.softtabstop = 4
 opt.mouse = "a" --mouse
 opt.incsearch = true --shows the match while typing
 opt.clipboard = "unnamedplus" --use clipboard
-opt.expandtab = true --use spaces instead of tabs
 opt.smartcase = true --do not ignore case with capitals
 opt.ignorecase = true --ignore case
 opt.foldenable = false
