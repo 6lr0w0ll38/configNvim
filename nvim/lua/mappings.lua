@@ -74,7 +74,7 @@ map("n", "<Space>fm", ":lua vim.lsp.buf.formatting()<CR>")
 map("n", "<Space>ca", ":lua vim.lsp.buf.code_action()<CR>")
 map("n", "<Space>wa", ":lua vim.lsp.buf.add_workspace_folder()<CR>")
 map("n", "<Space>wr", ":lua vim.lsp.buf.remove_workspace_folder()<CR>")
-map("n", "<Space>wl", ":lua print(vim.inspect(vim.lsp.buf.list_workspace_folder()))<CR>")
+map("n", "<Space>wl", ":lua print(vim.inspect(vim.lsp.buf.list_workspace_folders()))<CR>")
 
 --cmp
 local cmp = require'cmp'
