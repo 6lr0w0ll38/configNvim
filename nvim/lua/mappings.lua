@@ -7,6 +7,9 @@ local function map(mode, lhs, rhs, opts)
 end
 
 --general mappings
+--debug
+map("n", "<Leader>d", ":packadd termdebug<CR>")
+
 --file
 map("n", "w", ":w<CR>")
 map("n", "q", ":q!<CR>")
