@@ -1,0 +1,31 @@
+[22:04:49.532][info] [#0:C:\Users\0ll38\AppData\Local\nvim-data\lsp_servers\sumneko_lua\extension\server\main.lua:65]: Lua Lsp startup, root: 	C:/Users/0ll38/AppData/Local/nvim-data/lsp_servers/sumneko_lua/extension/server
+[22:04:49.532][info] [#0:C:\Users\0ll38\AppData\Local\nvim-data\lsp_servers\sumneko_lua\extension\server\main.lua:66]: ROOT:	C:/Users/0ll38/AppData/Local/nvim-data/lsp_servers/sumneko_lua/extension/server
+[22:04:49.532][info] [#0:C:\Users\0ll38\AppData\Local\nvim-data\lsp_servers\sumneko_lua\extension\server\main.lua:67]: LOGPATH:	C:/Users/0ll38/AppData/Local/nvim-data/lsp_servers/sumneko_lua/extension/server/log
+[22:04:49.532][info] [#0:C:\Users\0ll38\AppData\Local\nvim-data\lsp_servers\sumneko_lua\extension\server\main.lua:68]: METAPATH:	C:/Users/0ll38/AppData/Local/nvim-data/lsp_servers/sumneko_lua/extension/server/meta
+[22:04:49.532][info] [#0:C:\Users\0ll38\AppData\Local\nvim-data\lsp_servers\sumneko_lua\extension\server\main.lua:69]: VERSION:	3.4.2
+[22:04:49.563][info] [#0:script\service\service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 1.757 MB
+        # 00 : 1.757 MB
+        # 01 : 0.000 MB
+        # 02 : 0.000 MB
+        # 03 : 0.000 MB
+        # 04 : 0.000 MB
+    --------------- Coroutine ---------------
+        Total:     0
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      0
+    --------------- Cache ---------------
+        Total: 1
+        Dead:  0
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[22:04:49.672][info] [#0:script\language.lua:137]: VSC language: nil
+[22:04:49.672][info] [#0:script\language.lua:138]: LS  language: en-us
+[22:04:49.672][info] [#0:script\workspace\workspace.lua:39]: Workspace init root: 	file:///C:/myPrograms/configNvim
+[22:04:49.672][info] [#0:script\workspace\workspace.lua:43]: Log path: 	C:/Users/0ll38/AppData/Local/nvim-data/lsp_servers/sumneko_lua/extension/server/log/file_C_myPrograms_configNvim.log

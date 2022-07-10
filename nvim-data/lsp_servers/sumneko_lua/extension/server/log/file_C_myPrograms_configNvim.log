@@ -1,0 +1,73 @@
+[22:04:49.532][info] [#0:C:\Users\0ll38\AppData\Local\nvim-data\lsp_servers\sumneko_lua\extension\server\main.lua:65]: Lua Lsp startup, root: 	C:/Users/0ll38/AppData/Local/nvim-data/lsp_servers/sumneko_lua/extension/server
+[22:04:49.532][info] [#0:C:\Users\0ll38\AppData\Local\nvim-data\lsp_servers\sumneko_lua\extension\server\main.lua:66]: ROOT:	C:/Users/0ll38/AppData/Local/nvim-data/lsp_servers/sumneko_lua/extension/server
+[22:04:49.532][info] [#0:C:\Users\0ll38\AppData\Local\nvim-data\lsp_servers\sumneko_lua\extension\server\main.lua:67]: LOGPATH:	C:/Users/0ll38/AppData/Local/nvim-data/lsp_servers/sumneko_lua/extension/server/log
+[22:04:49.532][info] [#0:C:\Users\0ll38\AppData\Local\nvim-data\lsp_servers\sumneko_lua\extension\server\main.lua:68]: METAPATH:	C:/Users/0ll38/AppData/Local/nvim-data/lsp_servers/sumneko_lua/extension/server/meta
+[22:04:49.532][info] [#0:C:\Users\0ll38\AppData\Local\nvim-data\lsp_servers\sumneko_lua\extension\server\main.lua:69]: VERSION:	3.4.2
+[22:04:49.563][info] [#0:script\service\service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 1.757 MB
+        # 00 : 1.757 MB
+        # 01 : 0.000 MB
+        # 02 : 0.000 MB
+        # 03 : 0.000 MB
+        # 04 : 0.000 MB
+    --------------- Coroutine ---------------
+        Total:     0
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      0
+    --------------- Cache ---------------
+        Total: 1
+        Dead:  0
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[22:04:49.672][info] [#0:script\language.lua:137]: VSC language: nil
+[22:04:49.672][info] [#0:script\language.lua:138]: LS  language: en-us
+[22:04:49.672][info] [#0:script\workspace\workspace.lua:39]: Workspace init root: 	file:///C:/myPrograms/configNvim
+[22:04:49.672][info] [#0:script\workspace\workspace.lua:43]: Log path: 	C:/Users/0ll38/AppData/Local/nvim-data/lsp_servers/sumneko_lua/extension/server/log/file_C_myPrograms_configNvim.log
+[22:04:49.688][info] [#0:script\workspace\workspace.lua:49]: Workspace create: 	file:///C:/myPrograms/configNvim
+[22:04:49.688][warn] [#0:script\files.lua:74]: Fix real file uri: file:///C:/myPrograms/configNvim/nvim/lua/setting/plugins/treesitter.lua -> file:///c%3A/myPrograms/configNvim/nvim/lua/setting/plugins/treesitter.lua
+[22:04:49.688][info] [#0:script\provider\provider.lua:40]: Load config from client	file:///C:/myPrograms/configNvim
+[22:04:49.688][info] [#0:script\provider\provider.lua:41]: {
+  Lua = {
+    telemetry = {
+      enable = false
+    }
+  }
+}
+[22:04:49.797][info] [#0:script\provider\provider.lua:40]: Load config from client	file:///C:/myPrograms/configNvim
+[22:04:49.797][info] [#0:script\provider\provider.lua:41]: {
+  Lua = {
+    telemetry = {
+      enable = false
+    }
+  }
+}
+[22:04:49.797][info] [#0:script\provider\provider.lua:55]: Load config from client	fallback
+[22:04:49.797][info] [#0:script\provider\provider.lua:56]: {
+  Lua = {
+    telemetry = {
+      enable = false
+    }
+  }
+}
+[22:04:49.797][info] [#0:script\library.lua:207]: Init builtin library at:	nil
+[22:04:49.813][info] [#0:script\library.lua:207]: Init builtin library at:	file:///C:/myPrograms/configNvim
+[22:04:49.829][info] [#0:script\plugin.lua:80]: plugin path:	nil
+[22:04:49.829][info] [#0:script\plugin.lua:80]: plugin path:	nil
+[22:04:49.829][info] [#0:script\provider\provider.lua:55]: Load config from client	fallback
+[22:04:49.829][info] [#0:script\provider\provider.lua:56]: {
+  Lua = {
+    telemetry = {
+      enable = false
+    }
+  }
+}
+[22:04:49.829][info] [#0:script\workspace\workspace.lua:285]: Preload start:	file:///C:/myPrograms/configNvim
+[22:04:49.829][info] [#0:script\workspace\workspace.lua:291]: Scan files at:	file:///C:/myPrograms/configNvim
+[22:04:49.829][info] [#0:script\workspace\workspace.lua:285]: Preload start:	<fallback>
+[22:04:49.829][info] [#0:script\workspace\workspace.lua:307]: Scan library at:	file:///c%3A/Users/0ll38/AppData/Local/nvim-data/lsp_servers/sumneko_lua/extension/server/meta/Lua%205.4%20en-us%20utf8
